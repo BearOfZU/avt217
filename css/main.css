@@ -1,3 +1,30 @@
 body{
-	margin: 50px;
+	background-color: limegreen;
+	}
+h1{
+	color: tomato;
+	font-family: "Courier New", "consolas", sans-serif;
+}
+h2{
+	color: tomato;
+	font-family: "Courier New", "consolas", sans-serif;
+}
+h3{
+	color: tomato;
+	font-family: "consolas", sans-serif;
+}
+p{
+	color: tomato;
+	font-family: "consolas", sans-serif;
+}
+a:hover{
+	color: skyblue;
+}
+ul{
+	color: tomato;
+	font-family: "consolas", sans-serif;
+}
+li{
+	color: tomato;
+	font-family: "consolas", sans-serif;
 }
