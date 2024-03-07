@@ -23,6 +23,7 @@ a:hover{
 ul{
 	color: tomato;
 	font-family: "consolas", sans-serif;
+	border: 3px dashed blue;
 }
 li{
 	color: tomato;
