@@ -1,0 +1,22 @@
+body{
+		background-color: black;
+	}
+h1{
+	color: white;
+	font-family: "consolas", sans-serif;
+}
+h2{
+	color: white;
+	font-family: "consolas", sans-serif;
+}
+h3{
+	color: white;
+	font-family: "consolas", sans-serif;
+}
+p{
+	color: limegreen;
+	font-family: "consolas", sans-serif;
+}
+a:hover{
+	color: indianred;
+}
