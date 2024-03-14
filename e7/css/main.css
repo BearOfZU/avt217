@@ -1,37 +1,48 @@
 .title-h1{
-	color: tomato;
-	font-family: "Courier New", "consolas", sans-serif;
+	color: teal;
+	font-family: "Lora", serif;
+  	font-optical-sizing: auto;
+  	font-weight: 500;
+  	font-style: normal;
+	font-size: 30pt;
 }
-
-h1{
-	color: tomato;
-	font-family: "Courier New", "consolas", sans-serif;
+body{
+	background-color: lightgray;
+	font-family: "Figtree", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
 }
 
 h2{
 	color: tomato;
-	font-family: "Courier New", "consolas", sans-serif;
+	font-family: "Open Sans", sans-serif;
+  	font-optical-sizing: auto;
+	font-weight: 400; 
+	font-style: normal;
 }
 h3{
-	color: tomato;
-	font-family: "consolas", sans-serif;
+	color: darkgoldenrod;
 }
+h4{
+	color: saddlebrown;
+	font-style: oblique;
+}
+
 p{
-	color: purple;
-	font-family: "consolas", sans-serif;
+	color: rebeccapurple;
 }
-a:hover{
-	color: skyblue;
-}
+
 ul{
-	color: tomato;
-	font-family: "consolas", sans-serif;
-	border: 3px dashed blue;
+	color: saddlebrown;
+	
+	border: 1px dashed blueviolet;
 }
 li{
-	color: tomato;
-	font-family: "consolas", sans-serif;
+	color: saddlebrown;
+	
 }
 #author{
 	font-style: italic;
+	color: turquoise;
 }
