@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+}
+
+.red{
+	background-color: tomato;
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+.black{
+	background-color: darkgray;
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+.board{
+	width: 800px;
+}
