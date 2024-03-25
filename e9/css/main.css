@@ -1,2 +1,78 @@
-div {
+body{
+	margin: 0;
+}
+
+.black{
+	margin: 0;
+	background: black;
+}
+
+.alice{
+	background: aliceblue;
+}
+
+h1{
+	font-family: "Wix Madefor Text", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 400;
+  	font-style: normal;
+}
+
+ul{
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+li{
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.DivA1{
+	width: 50px;
+	height: 50px;
+	float: left;
+	border: 20px solid aliceblue;
+	transform: skew(40deg);
+	opacity: 1;
+}
+
+.DivA2{
+	width: 50px;
+	height: 50px;
+	float: left;
+	border: 20px solid lawngreen;
+	transform: skew(40deg);
+	opacity: 0.7;
+}
+
+.DivA3{
+	width: 50px;
+	height: 50px;
+	float: left;
+	border: 20px solid orangered;
+	transform: skew(40deg);
+	opacity: 0.7;
+}
+
+.DivB1{
+	width: 50px;
+	height: 50px;
+	float: left;
+	border: 20px dotted greenyellow;
+	transform: skew(5deg);
+	border-radius: 100px;
+	opacity: 0.3;
+}
+
+.DivC1{
+	width: 50px;
+	height: 50px;
+	float: left;
+	background-color: mediumvioletred;
+	border: rebeccapurple;
+	margin: -20px;
+	transform: skew(30deg);
+	border-radius: 100px;
 }
