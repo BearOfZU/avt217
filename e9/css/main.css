@@ -7,8 +7,26 @@ body{
 	background: black;
 }
 
+.navajowhite{
+	margin: 0;
+	background: navajowhite;
+}
+
 .alice{
 	background: aliceblue;
+}
+
+.cyber{
+	background: linear-gradient(to bottom, #73e6f5 0%, #3a47fc 100%);
+}
+
+.sky{
+	background: #73e6f5;
+}
+
+
+.gradient{
+	background: linear-gradient(to top, #fff32e 0%, #3a47fc 100%);
 }
 
 h1{
@@ -66,13 +84,77 @@ li{
 	opacity: 0.3;
 }
 
+.DivB2{
+	width: 100px;
+	height: 100px;
+	float: left;
+	border: 25px dotted cadetblue;
+	transform: skew(5deg);
+	border-radius: 100px;
+	opacity: 0.4;
+}
+
+.DivB3{
+	width: 100px;
+	height: 100px;
+	float: left;
+	border: 30px dotted lightcoral;
+	transform: skew(5deg);
+	border-radius: 100px;
+	opacity: 0.4;
+}
+
 .DivC1{
 	width: 50px;
 	height: 50px;
 	float: left;
 	background-color: mediumvioletred;
 	border: rebeccapurple;
-	margin: -20px;
+	margin: 20px;
 	transform: skew(30deg);
+	border-radius: 100px;
+}
+
+.DivC2{
+	width: 100px;
+	height: 100px;
+	float: left;
+	background-color: steelblue;
+	border: powderblue;
+	margin: 30px;
+	transform: skew(30deg);
+	border-radius: 100px;
+}
+
+.DivC3{
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-color: palegreen;
+	border: seagreen;
+	margin: 40px;
+	transform: skew(30deg);
+	border-radius: 100px;
+}
+
+.DivD1{
+	width: 250px;
+	height: 250px;
+	float: left;
+	background-color: palegreen;
+	border: seagreen;
+	margin: 0px;
+	transform: skew(30deg);
+	border-radius: 100px;
+}
+
+.DivD2{
+	width: 250px;
+	height: 250px;
+	float: left;
+	background-color: coral;
+	border: seagreen;
+	margin: 0px;
+	transform: skew(-30deg);
 	border-radius: 100px;
 }
