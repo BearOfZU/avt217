@@ -26,7 +26,7 @@ body{
 
 
 .gradient{
-	background: linear-gradient(to top, #fff32e 0%, #3a47fc 100%);
+	background: linear-gradient(to top, #e38c00 0%, #4d557a 100%);
 }
 
 h1{
@@ -104,6 +104,10 @@ li{
 	opacity: 0.4;
 }
 
+.DivC1, .DivC2, .DivC3{
+	filter: drop-shadow(5px 5px);
+}
+
 .DivC1{
 	width: 50px;
 	height: 50px;
@@ -157,4 +161,44 @@ li{
 	margin: 0px;
 	transform: skew(-30deg);
 	border-radius: 100px;
+}
+
+.DivE1 {
+  	width: 230px; 
+  	height: 230px;
+  	float: left; 
+  	border-left: 50px solid darkgreen;
+  	border-right: 25px solid darkgreen;
+  	border-top: 25px solid slategray;
+  	border-bottom: 50px solid black;
+}
+
+.DivE2 {
+  	width: 230px; 
+  	height: 230px;
+  	float: left; 
+  	border-left: 50px solid indianred;
+  	border-right: 25px solid indianred;
+  	border-top: 50px solid slategray;
+  	border-bottom: 25px solid black;
+}
+
+.DivE3 {
+  	width: 230px; 
+  	height: 230px;
+  	float: left; 
+  	border-left: 25px solid darkslateblue;
+  	border-right: 50px solid darkslateblue;
+  	border-top: 50px solid slategray;
+  	border-bottom: 25px solid black;
+}
+
+.DivE4 {
+  	width: 230px; 
+  	height: 230px;
+  	float: left; 
+  	border-left: 25px solid goldenrod;
+  	border-right: 50px solid goldenrod;
+  	border-top: 25px solid slategray;
+  	border-bottom: 50px solid black;
 }
